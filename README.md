@@ -1,5 +1,9 @@
 # Drupal Heroes
 
+## Designers needed!
+
+If you're interested in contributing a new design, *thank you!* We have a list of requests in the [issue queue](https://github.com/akalata/drupalheroes/issues). Please contact one of the maintainers if you need any assistance.
+
 ## To purchase
 
 Stickers may be purchased at https://www.stickermule.com/en/user/1070689618/stickers. There is a very slight markup added to the stickers, profits from the sale of these stickers will be used to fund future designs and to provide stickers at Drupal events.
