@@ -8,6 +8,8 @@ If you're interested in contributing a new design, *thank you!* We have a list o
 
 Stickers may be purchased at https://www.stickermule.com/en/user/1070689618/stickers. There is a very slight markup added to the stickers, profits from the sale of these stickers will be used to fund future designs and to provide stickers at Drupal events.
 
+There is a bulk purchasing discount on these, though it's not very clear from the cart page. There's also an additional discount on purchasing multiple custom stickers that only shows up if you are logged in. If you don't already have an account on StickerMule, https://www.stickermule.com/unlock?ref_id=8169860701 will give you $10 credit (that we get as well!).
+
 ## To request a design
 
 1. Please [search](https://github.com/akalata/drupalheroes/search?type=issues) to see if your request already exists. If a request is found, please +1 that one.
