@@ -20,6 +20,34 @@ There is a bulk purchasing discount on these, though it's not very clear from th
   * Bonus points for including an image or two with your request.
 4. Discussion on ideas for potential Drupal Heroes designs are welcome, but please be respectful. All interactions relating to this project fall under the [Drupal Code of Conduct](https://www.drupal.org/dcoc).
 
+## Collection
+
+### Version 1 - Debuted at DrupalCon Barcelona 2015
+
+* Batman
+* Catwoman
+* Daredevil
+* Hawkgirl
+* Hulk
+* Iron Man
+* Spiderman
+* Wolverine
+* Wonder Woman
+
+### Version 2 - Debuted at DrupalCamp Transylvania 2016
+
+* Captain America
+* Cyborg
+* Deadpool
+* Falcon
+* Flash
+* Green Lantern
+* Nick Fury
+* Storm
+* Supergirl
+* Superman
+* Thor
+
 ## Credits
 
 * [Ruben Teijeiro](https://www.drupal.org/u/rteijeiro) - [@rteijeiro](https://twitter.com/rteijeiro), [@Drupal_Heroes](https://twitter.com/drupal_heroes)
